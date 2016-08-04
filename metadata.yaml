@@ -1,0 +1,41 @@
+_repo: The-Enchanted-Island-of-Yew--13-Whereon-Prince-Marvel-Encountered-the-High-Ki-of-Twi-and-Other-__518
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Travel to an enchanted land borne from the imagination of Frank L. Baum,
+  the author of the beloved Wizard of Oz series. The mysterious island of Yew is as
+  fantastical as Oz, but this story offers more that will please fans of traditional
+  and medieval-inspired fantasy tales, including warring nights, magical castles,
+  fairies, and much more.
+gutenberg_bookshelf:
+- Children's Literature
+- Fantasy
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Princes -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- GITenberg
+title: "The Enchanted Island of Yew\r\nWhereon Prince Marvel Encountered the High\
+  \ Ki of Twi and Other Surprising People"
+url: http://www.gutenberg.org/ebooks/518
