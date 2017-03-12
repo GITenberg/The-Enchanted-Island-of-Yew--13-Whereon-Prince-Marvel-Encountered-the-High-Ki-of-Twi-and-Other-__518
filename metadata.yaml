@@ -1,5 +1,8 @@
 _repo: The-Enchanted-Island-of-Yew--13-Whereon-Prince-Marvel-Encountered-the-High-Ki-of-Twi-and-Other-__518
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -17,6 +20,8 @@ description: Travel to an enchanted land borne from the imagination of Frank L. 
   fantastical as Oz, but this story offers more that will please fans of traditional
   and medieval-inspired fantasy tales, including warring nights, magical castles,
   fairies, and much more.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/518#The-Enchanted-Island-of-Yew--13-Whereon-Prince-Marvel-Encountered-the-High-Ki-of-Twi-and-Other-_
 gutenberg_bookshelf:
 - Children's Literature
 - Fantasy
